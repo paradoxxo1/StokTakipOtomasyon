@@ -1,0 +1,2 @@
+# StokTakipOtomasyon
+StokTakip
